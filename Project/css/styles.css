@@ -1,0 +1,22 @@
+body {
+	background-color: #3F1F10;
+	color: #1E1007;
+	text-align: center;
+	font-size: 1.2em;
+	margin: 20px 20px 30px;
+}
+
+li {
+	text-align: left;
+	display: inline-block;
+	margin: 0px 5px;
+}
+
+div#main {
+	background-color: #DFCBA6;
+}
+
+p {
+	color: #473E36;
+	text-align: left
+}
